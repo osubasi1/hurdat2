@@ -7,7 +7,7 @@ from shapely.geometry import Point
 """
 Using a programming language of your choice, build an application to parse the HURDAT2 loc_data, identify
 the storms that made landfall in Florida, and output a report listing the name, date of landfall, and max
-wind speed for each event.
+wind speed for each events.
 
 Your code should be well commented and organized so other programmers can understand how it
 works. During your interview, be prepared to walk through the code, discuss your design choices, and
